@@ -1,3 +1,37 @@
-**Hey! This is a personal GitHub account that I am using for school projects and portfolio projects.**
+# Hey there 👋
 
-I'm mainly interested in web development so most, if not all of my projects will be a website
+I am a Computer Programming student at Seneca College. My passion is web development and I love learning as much as I can to build the best applications.
+<br/>
+
+## 🧰 Languages and Tools I work with
+<div>
+  <img src="https://user-images.githubusercontent.com/73202146/133003013-394ffc0b-1b67-40ab-b674-13742bbbea2e.png" alt="CSS" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133002983-57947178-34b8-4406-8cd9-59e1074fcb9b.png" alt="JavaScript" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133002973-04eaa4f9-f715-47df-bacd-6ae00377b440.png" alt="NodeJS" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133003212-397cb128-3f3a-4858-baae-a50da35d6ee8.png" alt="C++" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133002959-5085d13c-931b-479d-bd89-2cddfe1add4e.png" alt="Git" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133002989-bcd83c88-586e-48c9-9359-7762eaa9aaa9.png" alt="GitHub" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133003106-08326209-47a2-4497-bb66-388b238fb76e.png" alt="VS Code" width="50"/>
+</div>
+<br/>
+
+## 📚 Learning
+<div>
+  <img src="https://user-images.githubusercontent.com/73202146/133003167-1b27f4e1-7724-4f08-9ce5-fa1547db9cf8.png" alt="React" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133003185-49778439-bd8a-47de-908c-fb3353be5ecf.png" alt="Angular" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133003304-758370ac-586a-4e7d-887e-df3ceaec7978.png" alt="jQuery" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133003177-9bcf794b-e99e-47ae-86f1-c3afa850e905.png" alt="Java" width="50"/>
+</div>
+
+<br/>
+
+## 🔜 Want to learn
+<div>
+  <img src="https://user-images.githubusercontent.com/73202146/133003333-03017ce4-47bc-460c-be1f-d0ace95dfd54.png" alt="Python" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133003380-e4fd52c4-0c4b-4536-93a5-7d7277c9f3cd.png" alt="Tailwind CSS" width="50"/>
+</div>
+<br/>
+
+## 🏆 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BWN1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BWN1&theme=tokyonight)
