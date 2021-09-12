@@ -20,6 +20,8 @@ I am a Computer Programming student at Seneca College. My passion is web develop
   <img src="https://user-images.githubusercontent.com/73202146/133003167-1b27f4e1-7724-4f08-9ce5-fa1547db9cf8.png" alt="React" width="50"/>
   <img src="https://user-images.githubusercontent.com/73202146/133003185-49778439-bd8a-47de-908c-fb3353be5ecf.png" alt="Angular" width="50"/>
   <img src="https://user-images.githubusercontent.com/73202146/133003304-758370ac-586a-4e7d-887e-df3ceaec7978.png" alt="jQuery" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133005074-7f918ccd-3f88-4579-964e-7c20a7be2d1a.png" alt="Cypress" width="50"/>
+  <img src="https://user-images.githubusercontent.com/73202146/133005095-222bb9b6-6e87-4f05-80e5-1e3ba652545e.png" alt="Jest" width="50"/>
   <img src="https://user-images.githubusercontent.com/73202146/133003177-9bcf794b-e99e-47ae-86f1-c3afa850e905.png" alt="Java" width="50"/>
 </div>
 
